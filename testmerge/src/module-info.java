@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Demo {
+module testmerge {
 }
